@@ -60,5 +60,10 @@ public class Main {
         // Definir comportamneto
         rainha.falar();
         rainha.comer();
+
+        //Criar produtos
+
+        Produto p1 = new Produto();
+
     }
 }
